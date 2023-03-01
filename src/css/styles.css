@@ -1,0 +1,9 @@
+h1 {
+  color: white;
+  background-color: lightcoral;
+}
+
+.users {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
